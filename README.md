@@ -27,5 +27,5 @@ ___
 > >hi
 > >ㅁㄴㅇㅁㄴㅇ
 
-```print()```python
+```python print()```
 
