@@ -31,4 +31,4 @@ ___
 print()
 ```
 <https://leeshyuk.github.io>
-[내](https://leeshyuk.github.io, "ㄱㄱ")
+[내](https://leeshyuk.github.io "ㄱㄱ")
